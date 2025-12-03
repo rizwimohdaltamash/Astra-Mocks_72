@@ -1,4 +1,4 @@
-# 🚀 Astra-Mocks
+# 📖 Astra-Mocks
 
 <div align="center">
 
@@ -9,25 +9,7 @@
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-10.12.5-FFCA28?logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4.9-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 </div>
-
----
-
-## 📖 Table of Contents
-
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Usage Guide](#-usage-guide)
-- [Screenshots](#-screenshots)
-- [Scoring System](#-scoring-system)
-- [Admin Features](#-admin-features)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -462,21 +444,6 @@ Contributions are welcome! Please follow these steps:
 - [ ] Create practice mode without time limits
 - [ ] Add question bookmarking
 - [ ] Implement social sharing of achievements
-
----
-
-## 📧 Contact & Support
-
-For questions, suggestions, or issues:
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/astra-mocks/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/astra-mocks/discussions)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
